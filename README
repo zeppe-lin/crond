@@ -1,0 +1,56 @@
+crond
+=====
+
+crond is a simple clock daemon, fork of suckless' cron,
+obtained from sbase: git://git.suckless.org/sbase .
+
+
+License and Copyright
+---------------------
+
+Copyright (c) 2011 Connor Lane Smith <cls@lubutu.com>
+Copyright (c) 2011-2016 Dimitris Papastamos <sin@2f30.org>
+Copyright (c) 2014-2016 Laslo Hunhold <dev@frign.de>
+
+Authors/contributors include:
+
+Copyright (c) 2011 Kamil Cholewiński <harry666t@gmail.com>
+Copyright (c) 2011 Rob Pilling <robpilling@gmail.com>
+Copyright (c) 2011 Hiltjo Posthuma <hiltjo@codemadness.org>
+Copyright (c) 2011 pancake <pancake@youterm.com>
+Copyright (c) 2011 Random832 <random832@fastmail.us>
+Copyright (c) 2012 William Haddon <william@haddonthethird.net>
+Copyright (c) 2012 Kurt H. Maier <khm@sciops.net>
+Copyright (c) 2012 Christoph Lohmann <20h@r-36.net>
+Copyright (c) 2012 David Galos <galosd83@students.rowan.edu>
+Copyright (c) 2012 Robert Ransom <rransom.8774@gmail.com>
+Copyright (c) 2013 Jakob Kramer <jakob.kramer@gmx.de>
+Copyright (c) 2013 Anselm R Garbe <anselm@garbe.us>
+Copyright (c) 2013 Truls Becken <truls.becken@gmail.com>
+Copyright (c) 2013 dsp <dsp@2f30.org>
+Copyright (c) 2013 Markus Teich <markus.teich@stusta.mhn.de>
+Copyright (c) 2013 Jesse Ogle <jesse.p.ogle@gmail.com>
+Copyright (c) 2013 Lorenzo Cogotti <miciamail@hotmail.it>
+Copyright (c) 2013 Federico G. Benavento <benavento@gmail.com>
+Copyright (c) 2013 Roberto E. Vargas Caballero <k0ga@shike2.com>
+Copyright (c) 2013 Christian Hesse <mail@eworm.de>
+Copyright (c) 2013 Markus Wichmann <nullplan@gmx.net>
+Copyright (c) 2014 Silvan Jegen <s.jegen@gmail.com>
+Copyright (c) 2014 Daniel Bainton <dpb@driftaway.org>
+Copyright (c) 2014 Tuukka Kataja <stuge@xor.fi>
+Copyright (c) 2014 Jeffrey Picard <jeff@jeffreypicard.com>
+Copyright (c) 2014 Evan Gates <evan.gates@gmail.com>
+Copyright (c) 2014 Michael Forney <mforney@mforney.org>
+Copyright (c) 2014 Ari Malinen <ari.malinen@gmail.com>
+Copyright (c) 2014 Brandon Mulcahy <brandon@jangler.info>
+Copyright (c) 2014 Adria Garriga <rhaps0dy@installgentoo.com>
+Copyright (c) 2014-2015 Greg Reagle <greg.reagle@umbc.edu>
+Copyright (c) 2015 Tai Chi Minh Ralph Eastwood <tcmreastwood@gmail.com>
+Copyright (c) 2015 Quentin Rameau <quinq@quinq.eu.org>
+Copyright (c) 2015 Dionysis Grigoropoulos <info@erethon.com>
+Copyright (c) 2015 Wolfgang Corcoran-Mathe <wcm@sigwinch.xyz>
+Copyright (c) 2016 Mattias Andrée <maandree@kth.se>
+Copyright (c) 2016 Eivind Uggedal <eivind@uggedal.com>
+
+crond is licensed through MIT/X Consortium License.
+Read the LICENSE file for the complete license.

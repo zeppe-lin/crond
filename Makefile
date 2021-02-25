@@ -19,7 +19,7 @@ uninstall:
 	rm -f $(DESTDIR)$(MANPREFIX)/man8/crond.8
 
 clean:
-	rm -f cron cron.1 *.o
+	rm -f crond crond.8 *.o
 
 .PHONY:
 	all install uninstall clean
