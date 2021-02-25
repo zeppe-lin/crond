@@ -1,8 +1,8 @@
 .Dd 2015-10-08
-.Dt CRON 1
-.Os cron #VERSION#
+.Dt CROND 8
+.Os crond #VERSION#
 .Sh NAME
-.Nm cron
+.Nm crond
 .Nd clock daemon
 .Sh SYNOPSIS
 .Nm
