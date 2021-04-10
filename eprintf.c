@@ -35,16 +35,6 @@ enprintf(int status, const char *fmt, ...)
 }
 
 void
-weprintf(const char *fmt, ...)
-{
-	va_list ap;
-
-	va_start(ap, fmt);
-	xvprintf(fmt, ap);
-	va_end(ap);
-}
-
-void
 xvprintf(const char *fmt, va_list ap)
 {
 	if (argv0 && strncmp(fmt, "usage", strlen("usage")))
